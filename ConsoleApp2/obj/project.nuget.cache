@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "sepnF5UT5Td42kcWSnLZIkQwsYEkcXT0RadkBW10yFYRzaKbdp9CV4eudYpagBrC7NxNduWx9iliBr8L19WqaA==",
+  "success": true,
+  "projectFilePath": "E:\\RANDOM FILE KULIAH\\SEMESTER 2\\PBO\\TUGAS UTS\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
